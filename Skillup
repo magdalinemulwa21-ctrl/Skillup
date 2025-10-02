@@ -1,0 +1,26 @@
+# SkillUp – Online Learning & Assessment Platform
+
+## Overview
+SkillUp is a web-based EduTech platform designed to provide structured online learning and assessment for students and educators.  
+It allows students to access courses, take quizzes, track progress, while educators can upload lessons, manage learners, and issue certificates.
+
+## Features
+- Student & Educator registration/login
+- Course listing and enrollment
+- Interactive lessons and quizzes
+- Automated grading system
+- Student dashboard to track progress
+- Admin panel for educators
+
+## Tech Stack
+- **Frontend:** React.js  
+- **Backend:** Node.js / Express  
+- **Database:** MongoDB or PostgreSQL  
+- **Authentication:** JWT (JSON Web Tokens)  
+- **Deployment:** Netlify (frontend), Heroku (backend)
+
+## Installation
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/skillup.git
+   cd skillup
